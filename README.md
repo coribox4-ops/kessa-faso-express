@@ -26,6 +26,7 @@ puis ouvrir http://localhost:8000
 
 ## Crédits des images de démonstration
 Photos Pexels (licence Pexels : utilisation gratuite, y compris commerciale, sans attribution obligatoire).
-Numéros Pexels : 6195102, 36217325, 6197124, 6197043, 6196687, 6195954, 6196695, 6196684, 6197120,
-6196694, 6197122, 6197114, 6197123, 6195115, 7641240, 6196696, 30688593, 20143786, 32477672,
-30020992, 30165025, 33857126 (page : https://www.pexels.com/photo/<numéro>/).
+Personnes représentées : uniquement des femmes noires (choix de l'entreprise). Couleurs harmonisées à l'export.
+Numéros Pexels : 6195198, 6196694, 6195954, 6197124, 6195196, 4353615, 6195957, 6197042, 6197041,
+6197115, 4867360, 6195195, 8580755, 6195951, 3894376, 40045492, 36217325, 20143786, 32477672,
+30165025, 33857126 (page : https://www.pexels.com/photo/<numéro>/).
