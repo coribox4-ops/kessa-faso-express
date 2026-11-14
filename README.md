@@ -8,7 +8,7 @@ Site statique, sans dépendance : HTML, CSS et JavaScript simples. Il fonctionne
 - `assets/css/style.css` : mise en page, pensée d'abord pour le téléphone.
 - `assets/js/main.js` : menu mobile, liens WhatsApp préremplis, formulaire de devis vers WhatsApp, galerie agrandie, carte chargée à la demande.
 - `assets/img/` : images WebP en 3 tailles (480, 800, 1200 px).
-- `assets/fonts/` : police Manrope (licence libre SIL OFL, fichier joint).
+- `assets/fonts/` : polices Cormorant Garamond (titres) et Jost (textes), licence libre SIL OFL, fichiers joints.
 
 ## Voir le site en local
 ```
